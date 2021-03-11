@@ -6,7 +6,7 @@
 
 🌏 Open Source Contributions
 
-- [Kong v2.1.1](https://github.com/Kong/kong) ([#28](https://github.com/Kong/lua-multipart/pull/28))
+- [Kong](https://github.com/Kong/kong) ([#28](https://github.com/Kong/lua-multipart/pull/28))
 - [json-iterator/go](https://github.com/json-iterator/go) ([#480](https://github.com/json-iterator/go/pull/480))
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)

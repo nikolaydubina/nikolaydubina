@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi-Hi 👋
 
 🔭 I’m currently working on back-end and high-performance inference  
 🌱 I’m currently learning ["Fundamental Neuroscience"](https://www.goodreads.com/book/show/13658691-fundamental-neuroscience) and ["Systems Performance"](https://www.goodreads.com/book/show/53435218-systems-performance)  

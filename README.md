@@ -1,4 +1,4 @@
-👋 ...hello, 안녕, 你好, привіт, привет  
+👋 hello, 안녕, 你好, привіт, привет  
 🔭 I’m currently working on back-end and graph visualization  
 🌱 I’m currently learning ["Fundamental Neuroscience"](https://www.goodreads.com/book/show/13658691-fundamental-neuroscience) and [Kuberenetes](https://kubernetes.io/)  
 💬 Ask me about Go, Python, Software Engineering, Data Engineering, Machine Learning, Neuroscience, History of Computing  

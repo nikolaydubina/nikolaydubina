@@ -5,4 +5,4 @@
 🖥 I'm hosting [calendarheatmap.io](http://calendarheatmap.io/)  
 📖 I'm takling at [seminars](https://github.com/nikolaydubina/presentations)  
 🎓 KAIST Computer Science BSc  
-💬 Ask me about Go, Python, Software Engineering, Data, Machine Learning, Neuroscience
+💬 Ask me about Go, Python, Software, Data, ML, Neuroscience
